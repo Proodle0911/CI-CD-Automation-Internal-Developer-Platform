@@ -39,6 +39,9 @@ A unified monitoring tier built on:
 - **OpenTelemetry (OTel) Collector**: A unified pipeline for traces and metrics, allowing for vendor-neutral observability.
 - **ServiceMonitors**: Automated discovery of new workloads for metric scraping.
 
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c5e3a39e-fb7a-42b7-b8e3-fea5b3fa3148" />
+
 ---
 
 ## Directory Structure
