@@ -84,14 +84,14 @@ kubectl apply -f bootstrap/root-app.yaml
 
 ---
 
-## 🛡 Security Mandate
+## Security Mandate
 - **Distroless Images**: No shell or package managers in production containers.
 - **Non-Root Execution**: All workloads run as UID 1000.
 - **Network Isolation**: Default-deny ingress policies for ephemeral environments.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Orchestration**: Kubernetes (Kind)
 - **GitOps**: ArgoCD
 - **IaC**: Terraform, Crossplane
