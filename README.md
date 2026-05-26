@@ -1,4 +1,4 @@
-# Cloud-Native Internal Developer Platform (IDP) 🚀
+# Cloud-Native Internal Developer Platform (IDP) 
 
 ## Overview
 This repository contains a fully automated, production-grade **Internal Developer Platform (IDP)**. It is designed to optimize developer velocity by abstracting infrastructure complexity, enforcing declarative GitOps patterns, and providing built-in enterprise observability.
@@ -7,7 +7,7 @@ The platform follows a **"Golden Path"** approach, allowing developers to focus 
 
 ---
 
-## 🏗 System Architecture
+## System Architecture
 
 The platform is structured into five core pillars:
 
@@ -41,7 +41,7 @@ A unified monitoring tier built on:
 
 ---
 
-## 📁 Directory Structure
+## Directory Structure
 
 ```text
 cloud-native-idp/
@@ -59,7 +59,7 @@ cloud-native-idp/
 
 ---
 
-## 🚀 Getting Started (Local Validation)
+## Getting Started (Local Validation)
 
 ### Prerequisites
 - Docker Desktop
